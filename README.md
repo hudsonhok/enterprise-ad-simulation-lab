@@ -90,19 +90,25 @@ Clients locate domain controllers through DNS SRV records. Without working DNS, 
 
 Documentation captured at each major milestone:
 
-- Windows Server 2025 VM post-install
+Windows Server 2025 VM post-install
 <img width="1279" height="753" alt="01-winserver-install" src="https://github.com/user-attachments/assets/af8fb9d3-5a7b-4914-a55f-3c47cdaba9f4" />
-- Hyper-V role installation wizard
+
+Hyper-V role installation wizard
 <img width="1275" height="752" alt="02-hyper-v-install-wizard" src="https://github.com/user-attachments/assets/57874fd5-9479-4ded-9095-c10efa82ffba" />
-- AD DS installation wizard on DC01
+
+AD DS installation wizard on DC01
 <img width="1018" height="696" alt="03-dc01-adds-wizard" src="https://github.com/user-attachments/assets/9c3f6a8c-3838-403f-9c6a-95fc686842f9" />
-- First domain login (`ABC\<user>`)
+
+First domain login (`ABC\<user>`)
 <img width="1015" height="730" alt="05-new-domain-login" src="https://github.com/user-attachments/assets/48e7458d-f248-4d02-9109-69f428a9c645" />
-- OU structure creation on DC01
+
+OU structure creation on DC01
 <img width="1025" height="648" alt="08-dc01-AD-OUs" src="https://github.com/user-attachments/assets/442cb78f-36b2-4b9f-abbc-b6c0aeed0733" />
-- DC02 joining the domain
+
+DC02 joining the domain
 <img width="1024" height="546" alt="12-dc02-join-domain" src="https://github.com/user-attachments/assets/0957fdfe-b920-4e4d-92b6-66fda5b10229" />
-- DHCP failover configuration
+
+DHCP failover configuration
 <img width="1022" height="574" alt="16-dc01-dhcp-failover-config" src="https://github.com/user-attachments/assets/537c4680-d13a-4092-abd0-b0880ecf769a" />
 
 ---
